@@ -2,11 +2,7 @@
 <themes>
 
     <!-- 🔗 Links base (mantidos apenas para referência) -->
-    <data  
-        xmlurl="https://raw.githubusercontent.com/msmodsbr/Temas/main/Xml/"  
-        wall="https://raw.githubusercontent.com/msmodsbr/Temas/main/Wall/"  
-        screen="https://raw.githubusercontent.com/msmodsbr/Temas/main/Screen/"
-    />
+    <data xmls="https://directgold.app/xml/" walls="https://directgold.app/walls/" scs="https://directgold.app/screens/"/>
 
     <!-- 🌟 Lista de temas --> 
     <theme>
