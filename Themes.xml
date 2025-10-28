@@ -2,8 +2,11 @@
 <themes>
 
     <!-- 🔗 Links base (mantidos apenas para referência) -->
-    <data xmls="https://directgold.app/xml/" walls="https://directgold.app/walls/" scs="https://directgold.app/screens/"/>
-
+    <data  
+        xmlurl="https://raw.githubusercontent.com/msmodsbr/Temas/main/Xml/"  
+        wall="https://raw.githubusercontent.com/msmodsbr/Temas/main/Wall/"  
+        screen="https://raw.githubusercontent.com/msmodsbr/msmodsbr/Temas/main/Screen/"
+    />
     <!-- 🌟 Lista de temas --> 
     <theme>
         <title>Speed Man</title>
