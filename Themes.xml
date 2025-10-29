@@ -5,16 +5,26 @@
     <data  
         xmlurl="https://raw.githubusercontent.com/msmodsbr/Temas/main/Xml/"  
         wall="https://raw.githubusercontent.com/msmodsbr/Temas/main/Wall/"  
-        screen="https://raw.githubusercontent.com/msmodsbr/msmodsbr/Temas/main/Screen/"
+        screen="https://raw.githubusercontent.com/msmodsbr/Temas/main/Screen/"
     />
+
     <!-- 🌟 Lista de temas --> 
     <theme>
         <title>Speed Man</title>
         <date>By Ms Mods</date> 
     </theme>
+
     <theme>
         <title>Bew</title>
         <date>By Ms Mods</date> 
     </theme>
-    
+
+    <!-- Se tiver mais temas, adicione seguindo este padrão -->
+    <!--
     <theme>
+        <title>Nome do Tema</title>
+        <date>By Autor</date>
+    </theme>
+    -->
+
+</themes>
