@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="abu_saleh_status_and_photo" value="true" />
+    <int name="ModChaSendBKColor" value="-4609651" />
+    <int name="quoted_text_picker" value="-7591119" />
+    <boolean name="key_ahmed_hide_camera_tabs_home" value="false" />
+    <int name="key_msnews2" value="5" />
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="my_statusd" value="false" />
+    <boolean name="imsHideVStatus" value="false" />
+    <boolean name="key_toast_profile" value="false" />
+    <boolean name="key_toast_typing" value="false" />
+    <boolean name="newAttach_BottomDesign" value="true" />
+    <boolean name="virus_img" value="false" />
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="ModFabTextColor_Gactive" value="false" />
+    <boolean name="Hide_div" value="true" />
+    <boolean name="virus_datajam" value="false" />
+    <boolean name="yo_want_ghostmode" value="true" />
+    <boolean name="key_mas_hide_archive_home" value="false" />
+    <int name="yo_toast_status_rd" value="10" />
+    <boolean name="key_hide_unsaved_num" value="false" />
+    <boolean name="HomeBarText_Gactive" value="false" />
+    <boolean name="list_bg_color_Gactive" value="false" />
+    <string name="key_toast_duration">0</string>
+    <string name="jammnew">0</string>
+    <int name="ModWdgTitleColor" value="-13027796" />
+    <int name="key_msnewstab_GC" value="-2147483648" />
+    <string name="key_status_icon">8</string>
+    <int name="key_dwh_size_row" value="80" />
+    <boolean name="adMods_Mention_hash" value="false" />
+    <int name="yo_toast_status_bc" value="-12891564" />
+    <int name="yo_toast_profile_bc" value="-12891564" />
+    <int name="emojipopup_body_GC" value="-6848940" />
+    <string name="pp0">10</string>
+    <boolean name="key_msnewbottom_Gactive" value="false" />
+    <boolean name="onlinechat" value="false" />
+    <string name="detik1">0</string>
+    <boolean name="enable_fivminstatus" value="true" />
+    <int name="yo_toast_online_tc" value="-1" />
+    <string name="ui_home_styleV3">ios</string>
+    <boolean name="yo_toast_online_cs" value="true" />
+    <string name="convostyle">3</string>
+    <int name="yo_toast_profile_rd" value="10" />
+    <boolean name="key_tt" value="true" />
+    <int name="HomeCounterBK" value="-9347007" />
+    <int name="ModChatBubbleTextLeft" value="-13027796" />
+    <string name="key_chats_icon">4</string>
+    <int name="ModHomeMentionIconColor" value="-1" />
+    <boolean name="enable_grp_separationV2" value="true" />
+    <int name="quoted_divider_picker" value="-7591119" />
+    <boolean name="chat_contactpicV2" value="false" />
+    <int name="ModFabTextColor" value="-263" />
+    <int name="list_bg_color" value="-4609651" />
+    <boolean name="bubble_more_options_dlg" value="false" />
+    <boolean name="group_mypicV2" value="false" />
+    <int name="ModConBackColor" value="-4609651" />
+    <boolean name="yo_old_story" value="true" />
+    <boolean name="yo_hideinfo" value="true" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
+    <int name="key_counter_tx" value="-4609651" />
+    <int name="HomeCounterText" value="-1" />
+    <string name="ppsh">0</string>
+    <boolean name="yo_toast_online_view" value="true" />
+    <boolean name="Nuevo_WhatsApp" value="false" />
+    <string name="ppsf">0</string>
+    <boolean name="arch_chats_top" value="false" />
+    <boolean name="abu_saleh_research" value="false" />
+    <boolean name="onlineDotchat" value="false" />
+    <string name="key_community_icon">7</string>
+    <int name="ModChatBubbleHyperlinks" value="-7591119" />
+    <boolean name="yo_toast_profile_cs" value="true" />
+    <int name="yo_toast_profile_tc" value="-1" />
+    <int name="key_msnewbottom2" value="12" />
+    <boolean name="key_msnewstabin_check" value="true" />
+    <int name="ModlastseenColor" value="-13027796" />
+    <boolean name="yo_toast_online_el" value="true" />
+    <string name="pps">0</string>
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <boolean name="status_wantsendconfirmation" value="true" />
+    <int name="key_toast_rounded" value="14" />
+    <int name="BGColor" value="0" />
+    <int name="key_msnewstab2" value="12" />
+    <boolean name="yo_toast_status_view" value="false" />
+    <boolean name="enable_statuspage_extras" value="true" />
+    <boolean name="key_headerRE" value="true" />
+    <boolean name="key_carousel_view" value="true" />
+    <string name="HISTORY">[-5544597,-1430673011,0,-474371699,-7591119,-4609651,-13027796]</string>
+    <int name="quoted_bg_picker" value="-4609651" />
+    <boolean name="key_msnewstab_check" value="true" />
+    <boolean name="ahmed_conv_more" value="false" />
+    <boolean name="pagetitle_picker_Gactive" value="false" />
+    <int name="yo_toast_typing_rd" value="10" />
+    <boolean name="statuschat" value="false" />
+    <boolean name="quoted_divider_picker_Gactive" value="false" />
+    <int name="key_msnewstabin_GC" value="-8952739" />
+    <boolean name="multiChats" value="false" />
+    <int name="ModChatEmojiColor" value="-13027796" />
+    <boolean name="ModChaSendColor_Gactive" value="false" />
+    <int name="ModChaSendColor" value="-13027796" />
+    <int name="pagetitle_sel_picker" value="-7591119" />
+    <boolean name="yo_toast_status_el" value="true" />
+    <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
+    <int name="key_counter_bg" value="-13027796" />
+    <boolean name="key_ahmed_hide_settings_tab_home" value="false" />
+    <boolean name="ahmed_khbas_document" value="false" />
+    <int name="ModChatColor" value="-9347007" />
+    <int name="tabadgeBKColor" value="-13027796" />
+    <boolean name="Virus_bugbot" value="false" />
+    <boolean name="HideName_row" value="false" />
+    <boolean name="emojipopup_header_Gactive" value="false" />
+    <boolean name="HomeCounterBK_Gactive" value="false" />
+    <boolean name="home_imgBK" value="true" />
+    <boolean name="key_mstellC" value="true" />
+    <boolean name="quoted_name_picker_Gactive" value="false" />
+    <boolean name="key_mstellB" value="true" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <boolean name="ahmed_khbas_readmore" value="false" />
+    <boolean name="ahmedModsVcard" value="false" />
+    <string name="jsn_sound_send_message">0</string>
+    <boolean name="stkr_wantsendconfirmation" value="true" />
+    <boolean name="adMods_Media_wes" value="false" />
+    <boolean name="entry_translate" value="true" />
+    <boolean name="date_right_color_Gactive" value="false" />
+    <int name="tabadgeTextColor" value="-4609651" />
+    <string name="ConvoEntry">25</string>
+    <int name="ModConColor" value="-9347007" />
+    <boolean name="chats_show_contact_online_toast_check" value="true" />
+    <boolean name="key_grsHeader" value="true" />
+    <int name="key_msnewstabin" value="-9151414" />
+    <string name="tick_style">alien</string>
+    <boolean name="hide_fab" value="false" />
+    <boolean name="ModChatGStatusT_Gactive" value="false" />
+    <boolean name="yo_toast_status_override" value="true" />
+    <int name="tabindicator" value="-7591119" />
+    <boolean name="yo_toast_typing_cs" value="true" />
+    <boolean name="imsHideMStatus" value="false" />
+    <boolean name="ModChatTextColor_Gactive" value="false" />
+    <int name="yo_toast_typing_tc" value="-1" />
+    <string name="ui_bottom_style">ios</string>
+    <int name="yo_toast_online_bc" value="-12891564" />
+    <boolean name="key_quick_view" value="false" />
+    <boolean name="my_name" value="true" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="pagetitle_picker" value="-1565" />
+    <int name="BGColor_GC" value="-474371699" />
+    <int name="yo_toast_status_tc" value="-1" />
+    <boolean name="adMods_Webpage_seiw" value="false" />
+    <boolean name="PicHead" value="false" />
+    <boolean name="yo_toast_status_cs" value="true" />
+    <boolean name="key_botPP" value="true" />
+    <boolean name="hide_action_a" value="false" />
+    <boolean name="hide_action_b" value="false" />
+    <boolean name="ModFabPressedColor_Gactive" value="false" />
+    <boolean name="key_meler1" value="true" />
+    <string name="inconvo_trans_option">in-y</string>
+    <boolean name="key_toast_statuses" value="true" />
+    <boolean name="ahmed_HidePrivacy" value="false" />
+    <boolean name="key_newphoto" value="false" />
+    <int name="key_dwh_size_banner" value="170" />
+    <int name="key_msnewstab_GOrient" value="0" />
+    <boolean name="quoted_text_picker_Gactive" value="false" />
+    <boolean name="ModConPickColor_Gactive" value="false" />
+    <string name="HomeEntry">yousef</string>
+    <boolean name="statuses_bar_text_picker_Gactive" value="false" />
+    <int name="yo_toast_typing_bc" value="-12891564" />
+    <boolean name="New_Select_Message" value="false" />
+    <int name="date_divider_color_picker" value="-4609651" />
+    <boolean name="ahmed_HideCUpdates" value="false" />
+    <int name="main_text" value="17" />
+    <boolean name="ModChatRightBubble_Gactive" value="false" />
+    <boolean name="key_ms_animed" value="true" />
+    <int name="key_msnewsf2" value="12" />
+    <boolean name="key_comun" value="false" />
+    <int name="yo_toast_online_rd" value="10" />
+    <boolean name="key_msnewstabin_Gactive" value="true" />
+    <boolean name="ModConColor_Gactive" value="false" />
+    <int name="text_size_pick" value="16" />
+    <boolean name="yo_toast_profile_view" value="false" />
+    <int name="key_name_stories" value="-13027796" />
+    <int name="ModChatBubbleText" value="-13027796" />
+    <int name="rvkdmsg_icon_color" value="-7591119" />
+    <string name="key_chat_animation">0</string>
+    <string name="key_quick_position">top</string>
+    <boolean name="ModChatGStatusB_Gactive" value="false" />
+    <boolean name="key_setRotation_animasiChat" value="true" />
+    <int name="emojipopup_icons" value="-13027796" />
+    <boolean name="quoted_bg_picker_Gactive" value="false" />
+    <int name="ModFabNormalColor" value="-9347007" />
+    <boolean name="hide_action_s" value="false" />
+    <boolean name="yo_toast_typing_el" value="true" />
+    <string name="menit1">0</string>
+    <boolean name="hide_action_l" value="false" />
+    <boolean name="key_msbot" value="false" />
+    <boolean name="hide_action_m" value="false" />
+    <int name="ModContactNameColor" value="-13027796" />
+    <boolean name="Audio_sensor" value="true" />
+    <string name="menitnew">0</string>
+    <int name="key_msnewstab" value="0" />
+    <int name="UnSeenColor" value="-5544597" />
+    <boolean name="BGColor_Gactive" value="true" />
+    <int name="date_right_color" value="-13027796" />
+    <int name="emojipopup_body" value="-4609651" />
+    <string name="jamm">0</string>
+    <boolean name="NameProf" value="false" />
+    <boolean name="emojipopup_body_Gactive" value="true" />
+    <boolean name="ModChatEmojiColor_Gactive" value="false" />
+    <boolean name="ModChatBtnColor_Gactive" value="false" />
+    <boolean name="key_toast_custom" value="true" />
+    <boolean name="key_mstell" value="true" />
+    <int name="ModChatRightBubble" value="-4609651" />
+    <boolean name="ModHomeMentionIconColor_Gactive" value="false" />
+    <string name="key_toast_profile_gravity">0</string>
+    <boolean name="ModChaSendBKColor_Gactive" value="false" />
+    <int name="ModChatLeftBubble" value="-4609651" />
+    <int name="key_msnewbottom" value="-9347007" />
+    <boolean name="yo_want_airplanemode" value="true" />
+    <int name="ModDarkConPickColor" value="-9347007" />
+    <boolean name="key_directt_link" value="false" />
+    <boolean name="naljaede_key_fab_caht" value="false" />
+    <boolean name="yo_multi_account_menu" value="false" />
+    <boolean name="Archv_chats" value="false" />
+    <string name="yo_toast_typing_gv">0</string>
+    <int name="ModConTextColor" value="-13027796" />
+    <boolean name="chat_mypicV2" value="false" />
+    <boolean name="key_with_thumb" value="false" />
+    <boolean name="disableDTTL" value="false" />
+    <string name="papan">0</string>
+    <boolean name="yo_want_toolbar_camV2" value="true" />
+    <string name="yo_toast_status_gv">0</string>
+    <string name="jaaam2">0</string>
+    <boolean name="date_divider_color_picker_Gactive" value="false" />
+    <boolean name="PicProf" value="false" />
+    <int name="BGColor_GCDir" value="0" />
+    <string name="tabb">0</string>
+    <boolean name="hide_fab_ai" value="false" />
+    <boolean name="key_msnewstab_Gactive" value="true" />
+    <boolean name="SeenColor_Gactive" value="false" />
+    <boolean name="key_msbb003" value="true" />
+    <boolean name="btn_voice_color_chat_picker_Gactive" value="false" />
+    <int name="key_msnewstabin_GOrient" value="0" />
+    <boolean name="insta_fasttick" value="false" />
+    <string name="bubble_style">roundle</string>
+    <boolean name="ModChatColor_Gactive" value="false" />
+    <int name="ModChatBtnColor" value="-13027796" />
+    <boolean name="ModChatLeftBubble_Gactive" value="false" />
+    <string name="pic_startlocation">3</string>
+    <boolean name="AttBt" value="false" />
+    <boolean name="pic_inside" value="true" />
+    <boolean name="HomeCounterText_Gactive" value="false" />
+    <string name="papannew">0</string>
+    <string name="home_stories_style">view</string>
+    <int name="date_left_color" value="-13027796" />
+    <boolean name="ModDarkConPickColor_Gactive" value="false" />
+    <boolean name="ModChatBubbleText_Gactive" value="false" />
+    <string name="key_chats_listanimation">0</string>
+    <int name="date_bubble_color_picker" value="-13027796" />
+    <int name="seekbar_color_chat_picker" value="-7591119" />
+    <boolean name="yo_toast_profile_el" value="true" />
+    <int name="ModFabPressedColor" value="-9347007" />
+    <int name="statuses_bar_bg_picker" value="-4609651" />
+    <boolean name="abu9aleh_status_audio" value="false" />
+    <int name="ModChatGStatusB" value="-4609651" />
+    <int name="emojipopup_header" value="-4609651" />
+    <boolean name="emojipopup_icons_Gactive" value="false" />
+    <int name="quoted_name_picker" value="-7591119" />
+    <int name="HomeBarText" value="-1565" />
+    <boolean name="key_msnewbottom_check" value="true" />
+    <boolean name="imsHideRStatus" value="false" />
+    <int name="ModChatGStatusT" value="-13027796" />
+    <boolean name="key_headerREnew" value="true" />
+    <boolean name="log_show_name_check" value="true" />
+    <boolean name="home_stories_key" value="true" />
+    <int name="statuses_bar_text_picker" value="-13027796" />
+    <boolean name="technicalOfficialRai" value="false" />
+    <boolean name="ModHomeMentionIndBackground_Gactive" value="false" />
+    <boolean name="isSwipeEnabledV2" value="false" />
+    <boolean name="key_header" value="true" />
+    <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
+    <int name="ModWdgStatusColor" value="-13027796" />
+    <string name="menit">0</string>
+    <boolean name="seekbar_color_chat_picker_Gactive" value="false" />
+    <boolean name="key_toast_avatar" value="true" />
+    <boolean name="mstela2" value="true" />
+    <boolean name="key_setRotation_animasiHome" value="true" />
+    <boolean name="enable_ig_stories" value="true" />
+    <int name="emojipopup_body_GCDir" value="1" />
+    <int name="ModConPickColor" value="-9347007" />
+    <boolean name="mstela1" value="true" />
+    <string name="yo_toast_online_gv">0</string>
+    <boolean name="ahmed_show_contact_online_toast_check" value="true" />
+    <string name="key_group_icon">3</string>
+    <string name="key_story_view">0</string>
+    <boolean name="read_more" value="false" />
+    <int name="key_msnewstab2in" value="12" />
+    <string name="abu_saleh_quickcontact">0</string>
+    <string name="jsn_sound_incoming">0</string>
+    <int name="key_mas_setBackground_quick" value="-16744343" />
+    <boolean name="date_left_color_Gactive" value="false" />
+    <boolean name="rvkdmsg_icon_color_Gactive" value="false" />
+    <boolean name="yo_want_nightmode" value="true" />
+    <boolean name="UnSeenColor_Gactive" value="false" />
+    <boolean name="ModConBackColor_Gactive" value="false" />
+    <boolean name="abu_saleh_hide_community_icon" value="true" />
+    <int name="key_msnewscar2" value="12" />
+    <int name="pic_chat_size_pickerV2" value="37" />
+    <boolean name="ModChatBubbleTextLeft_Gactive" value="false" />
+    <boolean name="custom_wall" value="true" />
+    <boolean name="ModChatEntry_Gactive" value="false" />
+    <string name="key_toast_online_gravity">0</string>
+    <boolean name="elapsed_time" value="false" />
+    <boolean name="abu_saleh_hide_list" value="false" />
+    <int name="btn_voice_color_chat_picker" value="-7591119" />
+    <string name="key_calls_icon">9</string>
+    <int name="onlineDotchatColor" value="-7591119" />
+    <int name="ModHomeMentionIndBackground" value="-9347007" />
+    <string name="ahmed_quickcontact">1</string>
+    <int name="participant_name_color_picker" value="-7591119" />
+    <boolean name="ModFabNormalColor_Gactive" value="false" />
+    <string name="key_pager_animation">4</string>
+    <boolean name="Audio_ears" value="false" />
+    <int name="ModChatEntry" value="-4609651" />
+    <boolean name="yo_toast_typing_view" value="false" />
+    <int name="ModWdgBKColor" value="-4609651" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <boolean name="statuses_bar_bg_picker_Gactive" value="false" />
+    <int name="ModChatTextColor" value="-13027796" />
+    <boolean name="group_participants_picV2" value="false" />
+    <boolean name="key_regg" value="true" />
+    <boolean name="participant_name_color_picker_Gactive" value="false" />
+    <string name="key_status_ui">0</string>
+    <string name="key_dial1">0</string>
+    <boolean name="ModChatBubbleHyperlinks_Gactive" value="false" />
+    <boolean name="grpAdmin_enabled" value="true" />
+    <string name="key_toast_status_gravity">0</string>
+    <string name="yo_toast_profile_gv">0</string>
+    <string name="jamm1">0</string>
+    <boolean name="key_headerNA" value="true" />
+    <int name="SeenColor" value="-7591119" />
+    <boolean name="key_headerNB" value="true" />
+    <boolean name="yo_want_toolbar_cam" value="true" />
+    <int name="ModOnlineColor" value="-13027796" />
+</map>
