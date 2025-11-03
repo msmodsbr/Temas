@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="quoted_text_picker" value="-15330026" />
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="my_statusd" value="false" />
+    <boolean name="imsHideVStatus" value="false" />
+    <boolean name="abu_saleh_toast_profile_cs" value="true" />
+    <int name="key_updown_iconcolor" value="-15330026" />
+    <boolean name="date_bubble_color_picker_Gactive" value="false" />
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="ModFabTextColor_Gactive" value="false" />
+    <int name="key_mas_border_avatar_quick_contact" value="-3591039" />
+    <boolean name="key_hide_unsaved_num" value="false" />
+    <boolean name="HomeBarText_Gactive" value="false" />
+    <boolean name="MetaAI" value="true" />
+    <int name="key_dwh_size_row" value="80" />
+    <int name="ConvoBack" value="-1" />
+    <boolean name="abu_saleh_toast_profile_el" value="false" />
+    <boolean name="onlinechat" value="false" />
+    <boolean name="enable_fivminstatus" value="true" />
+    <boolean name="key_tt" value="true" />
+    <string name="key_edit_hidden_msg">!!MENSAGEM OCULTA!!</string>
+    <int name="HomeCounterBK" value="-3665888" />
+    <string name="key_chats_icon">5</string>
+    <int name="ModChatBubbleTextLeft" value="-15330026" />
+    <boolean name="enable_grp_separationV2" value="true" />
+    <int name="quoted_divider_picker" value="-3665888" />
+    <boolean name="abu_saleh_toast_online_cs" value="true" />
+    <boolean name="key_counter_tx_Gactive" value="false" />
+    <int name="ModFabTextColor" value="-15330026" />
+    <int name="list_bg_color" value="-3665888" />
+    <boolean name="ModConTextColor_Gactive" value="false" />
+    <boolean name="key_mstellchat2" value="true" />
+    <boolean name="abu_saleh_toast_status_view" value="true" />
+    <boolean name="yo_hideinfo" value="true" />
+    <string name="ppsh">0</string>
+    <boolean name="key_msnews_check" value="true" />
+    <boolean name="Nuevo_WhatsApp" value="true" />
+    <string name="ppsf">0</string>
+    <boolean name="tabadgeBKColor_Gactive" value="false" />
+    <boolean name="arch_chats_top" value="true" />
+    <boolean name="quickBK_check" value="true" />
+    <boolean name="abu_saleh_research" value="false" />
+    <string name="key_community_icon">6</string>
+    <boolean name="onlineDotchat" value="false" />
+    <int name="ModChatBubbleHyperlinks" value="-3665888" />
+    <int name="key_msnewbottom1" value="-3591039" />
+    <int name="key_msnewbottom2" value="12" />
+    <boolean name="key_msnewstabin_check" value="true" />
+    <int name="ModlastseenColor" value="-3591039" />
+    <int name="key_msnewbottom3" value="1" />
+    <int name="key_mas_setBackground_quick_GOrient" value="0" />
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <boolean name="status_wantsendconfirmation" value="true" />
+    <int name="ModDarkConPickColorNav" value="-470816" />
+    <int name="key_msnewstab4" value="1" />
+    <int name="key_msnewstab2" value="12" />
+    <int name="key_msnewstab1" value="-3665888" />
+    <boolean name="key_headerRE" value="true" />
+    <int name="abu_saleh_toast_online_bc" value="-15330026" />
+    <int name="quoted_bg_picker" value="-472880" />
+    <boolean name="abu_saleh_toast_typing_view" value="true" />
+    <boolean name="statuschat" value="false" />
+    <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
+    <int name="key_counter_bg" value="-3665888" />
+    <boolean name="key_msnews_Gactive" value="false" />
+    <int name="ModChatColor" value="-986896" />
+    <int name="key_ms_headerR" value="-3665888" />
+    <boolean name="hide_translation_icon" value="true" />
+    <int name="abu_saleh_toast_status_bc" value="-15330026" />
+    <boolean name="HomeCounterBK_Gactive" value="false" />
+    <boolean name="key_msnewsf_check" value="true" />
+    <int name="key_dwh_size_bannerC" value="160" />
+    <boolean name="key_mstellC" value="true" />
+    <boolean name="key_mstellB" value="true" />
+    <int name="key_mas_icon_quickcontact" value="-3591039" />
+    <boolean name="abu_saleh_toast_status_cs" value="true" />
+    <boolean name="quickText_check" value="true" />
+    <boolean name="date_right_color_Gactive" value="false" />
+    <int name="key_ms_icon" value="-3591039" />
+    <boolean name="key_grsHeader" value="true" />
+    <string name="key_custom_iconup">0</string>
+    <int name="key_msnewstabin" value="-15330026" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="ModChatGStatusT_Gactive" value="false" />
+    <string name="ui_bottom_style">ios</string>
+    <boolean name="my_name" value="false" />
+    <int name="pagetitle_picker" value="-3665888" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="abu_saleh_toast_profile_bc" value="-15330026" />
+    <boolean name="key_botPP" value="false" />
+    <boolean name="hide_action_a" value="false" />
+    <boolean name="key_meler1" value="true" />
+    <boolean name="hide_action_b" value="false" />
+    <boolean name="ConvoBack_Gactive" value="false" />
+    <boolean name="abu_saleh_toast_typing_bc_Gactive" value="false" />
+    <boolean name="key_msnewshader_check" value="true" />
+    <int name="key_dwh_size_banner" value="170" />
+    <int name="key_msnewstab_GOrient" value="0" />
+    <boolean name="key_name_stories_Gactive" value="false" />
+    <boolean name="quoted_text_picker_Gactive" value="false" />
+    <boolean name="statuses_bar_text_picker_Gactive" value="false" />
+    <int name="key_msnewsf4" value="1" />
+    <boolean name="key_ms_animed" value="true" />
+    <int name="key_msnewsf2" value="12" />
+    <int name="key_msnewsf1" value="-15330026" />
+    <boolean name="key_comun" value="true" />
+    <int name="text_size_pick" value="16" />
+    <int name="key_ms_bordab" value="-3665888" />
+    <boolean name="key_updown_bgcolor_Gactive" value="false" />
+    <string name="key_quick_position">top</string>
+    <boolean name="quoted_bg_picker_Gactive" value="false" />
+    <string name="menit2">0</string>
+    <string name="menit1">0</string>
+    <boolean name="hide_action_s" value="false" />
+    <int name="ModFabNormalColor" value="-3665888" />
+    <boolean name="key_msbot" value="true" />
+    <boolean name="hide_action_l" value="false" />
+    <boolean name="hide_action_m" value="false" />
+    <string name="key_admicon_list">0</string>
+    <int name="abu_saleh_toast_typing_tc" value="-3591039" />
+    <int name="UnSeenColor" value="-15330026" />
+    <boolean name="abu_saleh_toast_online_bc_check" value="true" />
+    <int name="date_right_color" value="-15330026" />
+    <string name="jamm">0</string>
+    <string name="abu_saleh_toast_status_gv">0</string>
+    <boolean name="NameProf" value="false" />
+    <boolean name="emojipopup_body_Gactive" value="false" />
+    <boolean name="key_mstell" value="true" />
+    <int name="quickText" value="-15330026" />
+    <boolean name="ModChaSendBKColor_Gactive" value="false" />
+    <int name="key_msnewbottom" value="-15330026" />
+    <boolean name="pagetitle_sel_picker_Gactive" value="false" />
+    <int name="key_msnewstab4in" value="1" />
+    <int name="ModDarkConPickColor" value="-470816" />
+    <boolean name="key_hide_scrolldown" value="false" />
+    <int name="ModConTextColor" value="-15200240" />
+    <boolean name="chat_mypicV2" value="false" />
+    <boolean name="key_with_thumb" value="false" />
+    <boolean name="disableDTTL" value="false" />
+    <int name="abu_saleh_toast_typing_rd" value="23" />
+    <string name="jaaam2">0</string>
+    <boolean name="date_divider_color_picker_Gactive" value="false" />
+    <boolean name="abu_saleh_toast_status_el" value="false" />
+    <boolean name="SeenColor_Gactive" value="false" />
+    <boolean name="btn_voice_color_chat_picker_Gactive" value="false" />
+    <int name="ModChatBtnColor" value="-3665888" />
+    <boolean name="key_counter_bg_Gactive" value="false" />
+    <boolean name="ModChatLeftBubble_Gactive" value="false" />
+    <boolean name="abu_saleh_key_fab_caht" value="true" />
+    <boolean name="AttBt" value="false" />
+    <string name="home_stories_style">view</string>
+    <boolean name="abu_saleh_toast_online_el" value="false" />
+    <boolean name="ModDarkConPickColor_Gactive" value="false" />
+    <boolean name="ModChatBubbleText_Gactive" value="false" />
+    <int name="key_msnewstab1in" value="-3591039" />
+    <int name="date_bubble_color_picker" value="-15330026" />
+    <int name="seekbar_color_chat_picker" value="-3665888" />
+    <boolean name="key_msnewscar_Gactive" value="false" />
+    <int name="ModFabPressedColor" value="-472880" />
+    <int name="statuses_bar_bg_picker" value="-15330026" />
+    <int name="ModChatGStatusB" value="-3665888" />
+    <int name="emojipopup_header" value="-15330026" />
+    <boolean name="emojipopup_icons_Gactive" value="false" />
+    <int name="HomeBarText" value="-3665888" />
+    <boolean name="imsHideRStatus" value="false" />
+    <boolean name="key_headerREnew" value="true" />
+    <int name="ModChatGStatusT" value="-15330026" />
+    <boolean name="abu_saleh_toast_profile_view" value="false" />
+    <int name="statuses_bar_text_picker" value="-3665888" />
+    <boolean name="abu_saleh_toast_status_bc_check" value="true" />
+    <boolean name="ModHomeMentionIndBackground_Gactive" value="false" />
+    <boolean name="isSwipeEnabledV2" value="false" />
+    <boolean name="seekbar_color_chat_picker_Gactive" value="false" />
+    <boolean name="abu_saleh_toast_profile_tc_check" value="true" />
+    <boolean name="admin_abosaleh" value="false" />
+    <string name="key_group_icon">6</string>
+    <int name="key_ms_Perffnew" value="-3665888" />
+    <boolean name="read_more" value="true" />
+    <int name="key_msnewstab2in" value="12" />
+    <string name="abu_saleh_quickcontact">0</string>
+    <int name="key_mas_setBackground_quick" value="-15330026" />
+    <boolean name="yo_want_nightmode" value="true" />
+    <boolean name="key_updown_bgcolor_check" value="true" />
+    <string name="abu_saleh_toast_online_gv">0</string>
+    <int name="quickBK" value="-3665888" />
+    <boolean name="abu_saleh_hide_community_icon" value="true" />
+    <boolean name="abu_saleh_toast_typing_tc_check" value="true" />
+    <boolean name="abu_saleh_toast_profile_bc_Gactive" value="false" />
+    <boolean name="ModChatBubbleTextLeft_Gactive" value="false" />
+    <int name="key_msnewsf" value="1447190" />
+    <boolean name="ModChatEntry_Gactive" value="false" />
+    <boolean name="ModFabNormalColor_Gactive" value="false" />
+    <int name="participant_name_color_picker" value="-3665888" />
+    <boolean name="Audio_ears" value="false" />
+    <int name="ModChatEntry" value="-1" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <boolean name="statuses_bar_bg_picker_Gactive" value="false" />
+    <boolean name="key_regg" value="true" />
+    <string name="key_status_ui">0</string>
+    <string name="key_dial1">0</string>
+    <string name="hazar_bozkurt_sesler_gidenmesaj">0</string>
+    <boolean name="ModChatBubbleHyperlinks_Gactive" value="false" />
+    <string name="key_dial2">0</string>
+    <boolean name="key_headerNA" value="true" />
+    <boolean name="key_headerNB" value="true" />
+    <int name="SeenColor" value="-15330026" />
+    <int name="ModOnlineColor" value="-3665888" />
+    <boolean name="abu_saleh_status_and_photo" value="true" />
+    <int name="key_msnews4" value="1" />
+    <int name="key_msnews1" value="-3665888" />
+    <int name="ModChaSendBKColor" value="-472880" />
+    <int name="key_msnews2" value="5" />
+    <boolean name="abu_saleh_toast_typing_bc_check" value="true" />
+    <int name="abu_saleh_toast_profile_tc" value="-3591039" />
+    <int name="abu_saleh_toast_online_rd" value="23" />
+    <boolean name="ModContactNameColor_Gactive" value="false" />
+    <int name="key_ms_Perff" value="-15200240" />
+    <boolean name="newAttach_BottomDesign" value="false" />
+    <boolean name="Hide_div" value="false" />
+    <boolean name="quickBK_Gactive" value="false" />
+    <boolean name="yo_want_ghostmode" value="true" />
+    <boolean name="key_mas_hide_archive_home" value="false" />
+    <boolean name="list_bg_color_Gactive" value="false" />
+    <string name="jammnew">0</string>
+    <int name="key_msnewstab_GC" value="-1895825409" />
+    <string name="key_status_icon">11</string>
+    <int name="key_meler" value="-3591039" />
+    <boolean name="key_msnewsf_Gactive" value="false" />
+    <boolean name="abu_saleh_toast_online_bc_Gactive" value="false" />
+    <string name="pp0">0</string>
+    <boolean name="abu_saleh_forward_tovoice" value="false" />
+    <boolean name="key_msnewbottom_Gactive" value="false" />
+    <string name="detik1">0</string>
+    <string name="detik2">0</string>
+    <string name="ui_home_styleV3">ios</string>
+    <int name="key_msnews" value="-1" />
+    <boolean name="abu_saleh_toast_status_tc_check" value="true" />
+    <int name="ModHomeMentionIconColor" value="-15921907" />
+    <boolean name="chat_contactpicV2" value="false" />
+    <int name="key_ms_bordabAA" value="-3591039" />
+    <int name="abu_saleh_toast_online_tc" value="-3591039" />
+    <boolean name="bubble_more_options_dlg" value="false" />
+    <int name="ModConBackColor" value="-15330026" />
+    <boolean name="hide_action_mas" value="false" />
+    <boolean name="key_msnewscar_check" value="true" />
+    <boolean name="key_method_endgp" value="false" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
+    <int name="key_counter_tx" value="-15330026" />
+    <int name="HomeCounterText" value="-15330026" />
+    <boolean name="key_mas_setBackground_quick_check" value="true" />
+    <boolean name="direkt_link_degistir" value="false" />
+    <boolean name="yo_chat_corner_switch" value="true" />
+    <int name="key_msnewshader" value="-15330026" />
+    <string name="pps">0</string>
+    <boolean name="key_hide_wallpaper_convo_view" value="false" />
+    <int name="BGColor" value="-1" />
+    <boolean name="enable_statuspage_extras" value="true" />
+    <boolean name="key_carousel_view" value="true" />
+    <boolean name="key_msnewstab_check" value="true" />
+    <boolean name="pagetitle_picker_Gactive" value="false" />
+    <boolean name="abu_saleh_play_voice_note" value="false" />
+    <boolean name="quoted_divider_picker_Gactive" value="false" />
+    <boolean name="multiChats" value="false" />
+    <boolean name="key_mstellchat" value="true" />
+    <int name="ModChatEmojiColor" value="-3665888" />
+    <boolean name="ModChaSendColor_Gactive" value="false" />
+    <int name="ModChaSendColor" value="-3665888" />
+    <int name="pagetitle_sel_picker" value="-3665888" />
+    <int name="key_ms_name" value="-3591039" />
+    <boolean name="key_send_hidden_msg" value="false" />
+    <boolean name="onlineDotchatColor_Gactive" value="false" />
+    <boolean name="key_meler_Gactive" value="false" />
+    <int name="tabadgeBKColor" value="-3665888" />
+    <boolean name="emojipopup_header_Gactive" value="false" />
+    <boolean name="home_imgBK" value="true" />
+    <boolean name="quoted_name_picker_Gactive" value="false" />
+    <int name="key_ms_Ban" value="-3591039" />
+    <int name="abu_saleh_toast_status_tc" value="-3591039" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <int name="key_mas_setBackground_quick_GC" value="-15330026" />
+    <boolean name="stkr_wantsendconfirmation" value="true" />
+    <int name="tabadgeTextColor" value="-15200240" />
+    <string name="ConvoEntry">13</string>
+    <int name="ModConColor" value="-986896" />
+    <string name="tick_style">alfa21</string>
+    <int name="abu_saleh_toast_profile_rd" value="23" />
+    <boolean name="key_hide_scrollup" value="false" />
+    <boolean name="ModDarkConPickColor_check" value="true" />
+    <int name="tabindicator" value="-3665888" />
+    <boolean name="imsHideMStatus" value="false" />
+    <boolean name="ModChatTextColor_Gactive" value="false" />
+    <boolean name="key_quick_view" value="false" />
+    <boolean name="PicHead" value="false" />
+    <boolean name="key_ms_headerR_Gactive" value="false" />
+    <boolean name="ModFabPressedColor_Gactive" value="false" />
+    <string name="inconvo_trans_option">in-y</string>
+    <boolean name="key_newphoto" value="false" />
+    <int name="abu_saleh_toast_status_rd" value="23" />
+    <boolean name="ModConPickColor_Gactive" value="false" />
+    <string name="HomeEntry">yousef</string>
+    <string name="hazar_bozkurt_sesler_gelenmesaj">0</string>
+    <int name="date_divider_color_picker" value="-3665888" />
+    <int name="main_text" value="17" />
+    <boolean name="ModChatRightBubble_Gactive" value="false" />
+    <boolean name="key_msnewstabin_Gactive" value="false" />
+    <boolean name="ModConColor_Gactive" value="false" />
+    <int name="key_name_stories" value="-3665888" />
+    <int name="ModChatBubbleText" value="-3665888" />
+    <int name="rvkdmsg_icon_color" value="-3591039" />
+    <boolean name="ModDarkConPickColorNav_check" value="true" />
+    <boolean name="ModChatGStatusB_Gactive" value="false" />
+    <int name="emojipopup_icons" value="-3665888" />
+    <int name="ModContactNameColor" value="-3665888" />
+    <boolean name="Audio_sensor" value="true" />
+    <string name="menitnew">0</string>
+    <boolean name="MasOption" value="false" />
+    <boolean name="abu_saleh_toast_typing_cs" value="true" />
+    <int name="key_msnewstab" value="-1895825409" />
+    <boolean name="abu_saleh_toast_online_tc_check" value="true" />
+    <boolean name="tabadgeTextColor_Gactive" value="false" />
+    <boolean name="BGColor_Gactive" value="false" />
+    <int name="key_mas_setText_contact_name" value="-3591039" />
+    <int name="emojipopup_body" value="-15330026" />
+    <int name="key_ms_bordabA" value="-3665888" />
+    <boolean name="ModChatEmojiColor_Gactive" value="false" />
+    <boolean name="ModChatBtnColor_Gactive" value="false" />
+    <int name="ModChatRightBubble" value="-1" />
+    <boolean name="ModHomeMentionIconColor_Gactive" value="false" />
+    <int name="ModChatLeftBubble" value="-1025" />
+    <boolean name="abu_saleh_toast_online_view" value="true" />
+    <boolean name="yo_want_airplanemode" value="true" />
+    <boolean name="yo_multi_account_menu" value="false" />
+    <string name="papan">0</string>
+    <boolean name="yo_want_toolbar_camV2" value="true" />
+    <boolean name="ModOnlineColor_Gactive" value="false" />
+    <boolean name="PicProf" value="false" />
+    <string name="tabb">0</string>
+    <int name="key_msnewscar" value="1447190" />
+    <boolean name="key_storiesB_Gactive" value="false" />
+    <boolean name="key_msnewstab_Gactive" value="true" />
+    <boolean name="key_msbb003" value="true" />
+    <boolean name="key_updown_iconcolor_check" value="true" />
+    <int name="abu_saleh_toast_typing_bc" value="-15330026" />
+    <string name="key_custom_icondown">0</string>
+    <boolean name="ModChatColor_Gactive" value="false" />
+    <string name="bubble_style">alfab80</string>
+    <boolean name="pic_inside" value="false" />
+    <boolean name="HomeCounterText_Gactive" value="false" />
+    <string name="papannew">0</string>
+    <int name="date_left_color" value="-3591039" />
+    <string name="abu_saleh_toast_profile_gv">0</string>
+    <boolean name="abu9aleh_status_audio" value="false" />
+    <boolean name="key_msnewshader_Gactive" value="false" />
+    <int name="quoted_name_picker" value="-15330026" />
+    <boolean name="key_msnewbottom_check" value="true" />
+    <string name="abu_saleh_toast_typing_gv">0</string>
+    <boolean name="log_show_name_check" value="true" />
+    <boolean name="tabindicator_Gactive" value="false" />
+    <boolean name="home_stories_key" value="true" />
+    <boolean name="technicalOfficialRai" value="false" />
+    <boolean name="key_reggC" value="true" />
+    <boolean name="key_header" value="true" />
+    <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
+    <int name="fab_rounded_key" value="12" />
+    <string name="menit">0</string>
+    <boolean name="mstela2" value="true" />
+    <boolean name="enable_ig_stories" value="true" />
+    <int name="ModConPickColor" value="-986896" />
+    <boolean name="mstela1" value="true" />
+    <boolean name="abu_saleh_toast_status_bc_Gactive" value="false" />
+    <boolean name="abu_saleh_toast_profile_bc_check" value="true" />
+    <string name="key_story_view">1</string>
+    <boolean name="abu_saleh_toast_typing_el" value="false" />
+    <boolean name="date_left_color_Gactive" value="false" />
+    <boolean name="rvkdmsg_icon_color_Gactive" value="false" />
+    <boolean name="UnSeenColor_Gactive" value="false" />
+    <boolean name="ModConBackColor_Gactive" value="false" />
+    <boolean name="key_mas_setBackground_quick_Gactive" value="false" />
+    <int name="key_msnewscar2" value="12" />
+    <int name="key_msnewscar1" value="1447190" />
+    <int name="pic_chat_size_pickerV2" value="40" />
+    <boolean name="custom_wall" value="false" />
+    <boolean name="elapsed_time" value="false" />
+    <int name="btn_voice_color_chat_picker" value="-15330026" />
+    <string name="key_calls_icon">7</string>
+    <boolean name="ModlastseenColor_Gactive" value="false" />
+    <int name="onlineDotchatColor" value="-3665888" />
+    <int name="ModHomeMentionIndBackground" value="-3665888" />
+    <int name="key_storiesB" value="-3665888" />
+    <int name="key_msnewscar4" value="1" />
+    <int name="key_updown_bgcolor" value="-3665888" />
+    <int name="ModChatTextColor" value="-3665888" />
+    <boolean name="participant_name_color_picker_Gactive" value="false" />
+    <string name="jamm2">0</string>
+    <string name="jamm1">0</string>
+</map>
