@@ -88,7 +88,7 @@
     <boolean name="key_msnewstabin_check" value="true" />
     <string name="pps">10</string>
     <int name="ModlastseenColor" value="-1" />
-    <boolean name="key_hide_wallpaper_convo_view" value="true" />
+    <boolean name="key_hide_wallpaper_convo_view" value="false" />
     <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
     <boolean name="status_wantsendconfirmation" value="true" />
     <int name="ModDarkConPickColorNav" value="-10143935" />
