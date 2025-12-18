@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
     <boolean name="key_hide_center_line" value="true" />
+    <boolean name="abu_saleh_status_and_photo" value="true" />
     <int name="key_msnews2" value="12" />
     <boolean name="disable_hiddenchat_access" value="false" />
     <boolean name="my_statusd" value="false" />
+    <boolean name="imsHideVStatus" value="false" />
     <int name="scdleft" value="2" />
     <int name="daytop" value="166" />
     <int name="key_updown_iconcolor" value="-1" />
@@ -43,6 +45,7 @@
     <int name="ModFabTextColor" value="-2400119" />
     <boolean name="ModConTextColor_Gactive" value="false" />
     <boolean name="bubble_more_options_dlg" value="false" />
+    <boolean name="MSwa_Newb" value="true" />
     <boolean name="hide_action_mas" value="false" />
     <int name="key_warDay" value="-2400119" />
     <boolean name="key_mnt5" value="true" />
@@ -77,11 +80,14 @@
     <int name="ModlastseenColor" value="-16777216" />
     <boolean name="abu_saleh_image_quality" value="false" />
     <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <boolean name="status_wantsendconfirmation" value="true" />
     <int name="key_msnewstab4" value="1" />
     <int name="key_msnewstab2" value="12" />
     <boolean name="key_mnt" value="true" />
     <int name="key_msnewstab1" value="-2400119" />
+    <boolean name="enable_statuspage_extras" value="true" />
     <boolean name="key_headerRE" value="true" />
+    <boolean name="key_carousel_view" value="false" />
     <boolean name="pagetitle_picker_Gactive" value="false" />
     <boolean name="abu_saleh_play_voice_note" value="false" />
     <int name="key_msnewstabin_GC" value="-10395295" />
@@ -93,6 +99,7 @@
     <int name="ModChatColor" value="-1" />
     <boolean name="key_meler_Gactive" value="false" />
     <boolean name="hide_translation_icon" value="false" />
+    <boolean name="blurConfig" value="true" />
     <int name="tabadgeBKColor" value="-5658199" />
     <boolean name="HomeCounterBK_Gactive" value="false" />
     <boolean name="home_imgBK" value="true" />
@@ -101,6 +108,7 @@
     <boolean name="key_mnt2" value="true" />
     <boolean name="custom_wall_profilepic" value="false" />
     <boolean name="stkr_wantsendconfirmation" value="true" />
+    <boolean name="nameconfig_N" value="false" />
     <int name="tabadgeTextColor" value="-2400119" />
     <boolean name="abo_saleh_audio_limit_check" value="true" />
     <int name="key_ms_icon" value="-2400119" />
@@ -108,16 +116,20 @@
     <boolean name="key_grsHeader" value="true" />
     <string name="key_custom_iconup">0</string>
     <int name="key_msnewstabin" value="-4342339" />
+    <string name="status_reaction">💚</string>
     <string name="tick_style">circles</string>
     <boolean name="Img_share_limit" value="true" />
     <boolean name="hide_fab" value="false" />
     <boolean name="key_hide_scrollup" value="false" />
+    <boolean name="imsHideMStatus" value="false" />
     <string name="ui_bottom_style">basic</string>
     <boolean name="key_quick_view" value="false" />
     <boolean name="my_name" value="false" />
     <int name="jmsize" value="15" />
     <int name="pagetitle_picker" value="-2400119" />
     <boolean name="TxtSelect" value="true" />
+    <int name="size_tab" value="60" />
+    <boolean name="blurtab" value="true" />
     <boolean name="PicHead" value="true" />
     <boolean name="key_botPP" value="true" />
     <boolean name="hide_action_a" value="false" />
@@ -134,6 +146,7 @@
     <string name="hazar_bozkurt_sesler_gelenmesaj">0</string>
     <int name="main_text" value="17" />
     <int name="key_msnewsf2" value="12" />
+    <boolean name="key_ms_animed" value="true" />
     <boolean name="key_comun" value="true" />
     <boolean name="key_msnewstabin_Gactive" value="true" />
     <boolean name="ModConColor_Gactive" value="false" />
@@ -153,6 +166,7 @@
     <string name="menitnew">0</string>
     <boolean name="MasOption" value="false" />
     <string name="key_admicon_list">0</string>
+    <int name="key_msnewstntabname2" value="5" />
     <boolean name="tabadgeTextColor_Gactive" value="false" />
     <int name="date2right" value="154" />
     <string name="jamm">0</string>
@@ -172,6 +186,7 @@
     <int name="ModConTextColor" value="-16777216" />
     <int name="TextDateDrawer2" value="-2400119" />
     <boolean name="disableDTTL" value="false" />
+    <boolean name="key_with_thumb" value="false" />
     <string name="papan">0</string>
     <boolean name="key_scn" value="true" />
     <boolean name="yo_want_toolbar_camV2" value="false" />
@@ -197,18 +212,22 @@
     <boolean name="key_frameAtas" value="true" />
     <boolean name="HomeCounterText_Gactive" value="false" />
     <string name="papannew">1</string>
+    <string name="home_stories_style">view</string>
     <string name="key_chats_listanimation">0</string>
     <boolean name="key_digitR" value="true" />
     <int name="ModFabPressedColor" value="-12566464" />
     <boolean name="Up_size_limit" value="false" />
+    <boolean name="abu9aleh_status_audio" value="false" />
     <boolean name="key_grt2" value="true" />
     <int name="HomeBarText" value="-2400119" />
     <boolean name="key_grt3" value="true" />
     <boolean name="key_grt4" value="true" />
+    <boolean name="imsHideRStatus" value="false" />
     <boolean name="key_headerREnew" value="true" />
     <boolean name="log_show_name_check" value="true" />
     <boolean name="key_hour3" value="true" />
     <boolean name="key_hour2" value="true" />
+    <boolean name="home_stories_key" value="false" />
     <boolean name="ModHomeMentionIndBackground_Gactive" value="false" />
     <boolean name="isSwipeEnabledV2" value="false" />
     <boolean name="key_header" value="true" />
@@ -223,6 +242,7 @@
     <int name="Dhourleft" value="2" />
     <int name="Dleft" value="2" />
     <boolean name="key_hour5" value="true" />
+    <int name="key_msnewstntabconfig2" value="30" />
     <boolean name="key_hour4" value="true" />
     <boolean name="admin_abosaleh" value="false" />
     <string name="key_group_icon">13</string>
@@ -240,9 +260,9 @@
     <boolean name="abu_saleh_hide_community_icon" value="true" />
     <boolean name="key_grsPx2" value="true" />
     <int name="key_msnewscar2" value="12" />
-    <boolean name="custom_wall" value="false" />
+    <boolean name="custom_wall" value="true" />
     <boolean name="elapsed_time" value="false" />
-    <boolean name="abu_saleh_hide_list" value="false" />
+    <boolean name="abu_saleh_hide_list" value="true" />
     <boolean name="key_dayToxE" value="true" />
     <string name="key_calls_icon">10</string>
     <boolean name="ModlastseenColor_Gactive" value="false" />
@@ -256,6 +276,7 @@
     <boolean name="Audio_ears" value="false" />
     <int name="square_photo_ratio_picker" value="100" />
     <boolean name="key_regg" value="true" />
+    <string name="key_status_ui">0</string>
     <string name="key_dial1">0</string>
     <string name="hazar_bozkurt_sesler_gidenmesaj">0</string>
     <string name="key_dial3">0</string>
