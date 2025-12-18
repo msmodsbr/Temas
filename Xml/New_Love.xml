@@ -54,6 +54,7 @@
     <int name="list_bg_color" value="-4609651" />
     <boolean name="bubble_more_options_dlg" value="false" />
     <boolean name="group_mypicV2" value="false" />
+    <boolean name="MSwa_Newb" value="true" />
     <int name="ModConBackColor" value="-4609651" />
     <boolean name="yo_old_story" value="true" />
     <boolean name="yo_hideinfo" value="true" />
@@ -105,6 +106,7 @@
     <boolean name="key_ahmed_hide_settings_tab_home" value="false" />
     <boolean name="ahmed_khbas_document" value="false" />
     <int name="ModChatColor" value="-9347007" />
+    <boolean name="blurConfig" value="true" />
     <int name="tabadgeBKColor" value="-13027796" />
     <boolean name="Virus_bugbot" value="false" />
     <boolean name="HideName_row" value="false" />
@@ -119,6 +121,7 @@
     <boolean name="ahmedModsVcard" value="false" />
     <string name="jsn_sound_send_message">0</string>
     <boolean name="stkr_wantsendconfirmation" value="true" />
+    <boolean name="nameconfig_N" value="false" />
     <boolean name="adMods_Media_wes" value="false" />
     <boolean name="entry_translate" value="true" />
     <boolean name="date_right_color_Gactive" value="false" />
@@ -144,8 +147,10 @@
     <boolean name="TxtSelect" value="true" />
     <int name="pagetitle_picker" value="-1565" />
     <int name="BGColor_GC" value="-474371699" />
+    <int name="size_tab" value="60" />
     <int name="yo_toast_status_tc" value="-1" />
     <boolean name="adMods_Webpage_seiw" value="false" />
+    <boolean name="blurtab" value="true" />
     <boolean name="PicHead" value="false" />
     <boolean name="yo_toast_status_cs" value="true" />
     <boolean name="key_botPP" value="true" />
@@ -196,6 +201,7 @@
     <int name="ModContactNameColor" value="-13027796" />
     <boolean name="Audio_sensor" value="true" />
     <string name="menitnew">0</string>
+    <int name="key_msnewstntabname2" value="5" />
     <int name="key_msnewstab" value="0" />
     <int name="UnSeenColor" value="-5544597" />
     <boolean name="BGColor_Gactive" value="true" />
@@ -288,6 +294,7 @@
     <int name="ModConPickColor" value="-9347007" />
     <boolean name="mstela1" value="true" />
     <string name="yo_toast_online_gv">0</string>
+    <int name="key_msnewstntabconfig2" value="30" />
     <boolean name="ahmed_show_contact_online_toast_check" value="true" />
     <string name="key_group_icon">3</string>
     <string name="key_story_view">0</string>
@@ -309,7 +316,7 @@
     <boolean name="ModChatEntry_Gactive" value="false" />
     <string name="key_toast_online_gravity">0</string>
     <boolean name="elapsed_time" value="false" />
-    <boolean name="abu_saleh_hide_list" value="false" />
+    <boolean name="abu_saleh_hide_list" value="true" />
     <int name="btn_voice_color_chat_picker" value="-7591119" />
     <string name="key_calls_icon">9</string>
     <int name="onlineDotchatColor" value="-7591119" />
