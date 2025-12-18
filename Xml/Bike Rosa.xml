@@ -478,7 +478,7 @@
     <int name="key_msnewscar2" value="11" />
     <int name="key_msnewscar1" value="0" />
     <int name="pic_chat_size_pickerV2" value="40" />
-    <boolean name="custom_wall" value="false" />
+    <boolean name="custom_wall" value="true" />
     <boolean name="abu_saleh_hide_list" value="true" />
     <boolean name="elapsed_time" value="false" />
     <int name="btn_voice_color_chat_picker" value="-16777216" />
