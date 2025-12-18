@@ -51,6 +51,7 @@
     <int name="ModFabTextColor" value="-2313" />
     <boolean name="ModConTextColor_Gactive" value="false" />
     <boolean name="bubble_more_options_dlg" value="false" />
+    <boolean name="MSwa_Newb" value="true" />
     <int name="ModConBackColor" value="-16777216" />
     <boolean name="key_mstellchat2" value="true" />
     <int name="key_msnewschat" value="0" />
@@ -83,7 +84,7 @@
     <int name="ModlastseenColor" value="-1648435" />
     <string name="pps">11</string>
     <int name="key_mas_setBackground_quick_GOrient" value="0" />
-    <boolean name="key_hide_wallpaper_convo_view" value="true" />
+    <boolean name="key_hide_wallpaper_convo_view" value="false" />
     <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
     <boolean name="status_wantsendconfirmation" value="true" />
     <int name="ModDarkConPickColorNav" value="-16777216" />
@@ -116,6 +117,7 @@
     <boolean name="key_msnews_Gactive" value="false" />
     <int name="ModChatColor" value="0" />
     <boolean name="hide_translation_icon" value="false" />
+    <boolean name="blurConfig" value="true" />
     <int name="tabadgeBKColor" value="-3132351" />
     <boolean name="emojipopup_header_Gactive" value="false" />
     <boolean name="HomeCounterBK_Gactive" value="false" />
@@ -131,6 +133,7 @@
     <boolean name="convo_imgBK" value="true" />
     <int name="key_msnewschat4" value="1" />
     <boolean name="stkr_wantsendconfirmation" value="true" />
+    <boolean name="nameconfig_N" value="false" />
     <int name="key_msnewschat2" value="12" />
     <int name="key_msnewschat1" value="1439708225" />
     <boolean name="date_right_color_Gactive" value="false" />
@@ -158,6 +161,8 @@
     <int name="pagetitle_picker" value="-5011087" />
     <boolean name="TxtSelect" value="true" />
     <int name="bbb2size" value="0" />
+    <int name="size_tab" value="60" />
+    <boolean name="blurtab" value="true" />
     <int name="chat2_size" value="94" />
     <boolean name="PicHead" value="true" />
     <boolean name="key_botPP" value="false" />
@@ -205,6 +210,7 @@
     <string name="menitnew">0</string>
     <boolean name="MasOption" value="false" />
     <string name="key_admicon_list">0</string>
+    <int name="key_msnewstntabname2" value="5" />
     <int name="key_msnewstab" value="-5238262" />
     <int name="UnSeenColor" value="-3132351" />
     <boolean name="tabadgeTextColor_Gactive" value="false" />
@@ -303,6 +309,7 @@
     <boolean name="mstela1" value="true" />
     <boolean name="key_digitL" value="true" />
     <int name="key_dwh_size_status" value="55" />
+    <int name="key_msnewstntabconfig2" value="30" />
     <boolean name="admin_abosaleh" value="false" />
     <string name="key_group_icon">8</string>
     <string name="key_story_view">0</string>
@@ -324,11 +331,11 @@
     <boolean name="key_dayToxR" value="true" />
     <int name="key_msnewscar2" value="12" />
     <boolean name="key_dayToxL" value="true" />
-    <boolean name="custom_wall" value="false" />
+    <boolean name="custom_wall" value="true" />
     <boolean name="ModChatBubbleTextLeft_Gactive" value="false" />
     <boolean name="ModChatEntry_Gactive" value="false" />
     <boolean name="elapsed_time" value="false" />
-    <boolean name="abu_saleh_hide_list" value="false" />
+    <boolean name="abu_saleh_hide_list" value="true" />
     <int name="btn_voice_color_chat_picker" value="-5011087" />
     <boolean name="ModlastseenColor_Gactive" value="false" />
     <string name="key_calls_icon">11</string>
