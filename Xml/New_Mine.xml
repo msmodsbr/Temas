@@ -52,6 +52,7 @@
     <int name="ModFabTextColor" value="-73504" />
     <boolean name="ModConTextColor_Gactive" value="false" />
     <boolean name="bubble_more_options_dlg" value="false" />
+    <boolean name="MSwa_Newb" value="true" />
     <int name="ModConBackColor" value="-860187" />
     <boolean name="hide_action_mas" value="true" />
     <int name="key_warDay" value="-16777216" />
@@ -114,6 +115,7 @@
     <int name="ModChatColor" value="-73504" />
     <boolean name="drawerBorderColor_check" value="true" />
     <boolean name="hide_translation_icon" value="false" />
+    <boolean name="blurConfig" value="true" />
     <int name="tabadgeBKColor" value="-16777216" />
     <boolean name="HomeCounterBK_Gactive" value="false" />
     <boolean name="home_imgBK" value="true" />
@@ -124,6 +126,7 @@
     <boolean name="key_mnt2" value="true" />
     <boolean name="custom_wall_profilepic" value="false" />
     <boolean name="stkr_wantsendconfirmation" value="true" />
+    <boolean name="nameconfig_N" value="false" />
     <boolean name="date_right_color_Gactive" value="false" />
     <int name="tabadgeTextColor" value="-73504" />
     <string name="ConvoEntry">12</string>
@@ -131,6 +134,7 @@
     <string name="key_custom_iconup">0</string>
     <boolean name="key_grsHeader" value="true" />
     <int name="key_msnewstabin" value="-73504" />
+    <string name="status_reaction">💚</string>
     <string name="tick_style">kitty</string>
     <int name="ModConPickColor_GC" value="-1" />
     <boolean name="hide_fab" value="false" />
@@ -149,7 +153,9 @@
     <int name="pagetitle_picker" value="-16777216" />
     <boolean name="TxtSelect" value="true" />
     <int name="ModChatGStatusB_GC" value="-929591" />
+    <int name="size_tab" value="60" />
     <boolean name="SA2_tTextColor_check" value="true" />
+    <boolean name="blurtab" value="true" />
     <boolean name="PicHead" value="false" />
     <boolean name="SA_tTextColor_Gactive" value="false" />
     <boolean name="key_botPP" value="true" />
@@ -201,6 +207,7 @@
     <boolean name="MasOption" value="false" />
     <string name="menitnew">0</string>
     <string name="key_admicon_list">0</string>
+    <int name="key_msnewstntabname2" value="5" />
     <int name="key_msnewstab" value="1543430368" />
     <boolean name="tabadgeTextColor_Gactive" value="false" />
     <boolean name="BGColor_Gactive" value="false" />
@@ -308,6 +315,7 @@
     <int name="Dhourleft" value="2" />
     <int name="Dleft" value="2" />
     <boolean name="key_hour5" value="true" />
+    <int name="key_msnewstntabconfig2" value="30" />
     <boolean name="key_hour4" value="true" />
     <boolean name="admin_abosaleh" value="false" />
     <string name="key_group_icon">9</string>
@@ -328,12 +336,12 @@
     <boolean name="key_grsPx2" value="true" />
     <int name="drawerBackgroundColor" value="-73504" />
     <int name="key_msnewscar2" value="12" />
-    <boolean name="custom_wall" value="false" />
+    <boolean name="custom_wall" value="true" />
     <boolean name="ModChatBubbleTextLeft_Gactive" value="false" />
     <boolean name="SA1_tTextColor_Gactive" value="false" />
     <boolean name="ModChatEntry_Gactive" value="false" />
     <boolean name="elapsed_time" value="false" />
-    <boolean name="abu_saleh_hide_list" value="false" />
+    <boolean name="abu_saleh_hide_list" value="true" />
     <boolean name="key_dayToxE" value="true" />
     <boolean name="ModlastseenColor_Gactive" value="false" />
     <string name="key_calls_icon">9</string>
@@ -348,7 +356,7 @@
     <int name="square_photo_ratio_picker" value="100" />
     <int name="ModChatTextColor" value="-16777216" />
     <boolean name="key_regg" value="true" />
-    <string name="key_status_ui">3</string>
+    <string name="key_status_ui">0</string>
     <string name="hazar_bozkurt_sesler_gidenmesaj">0</string>
     <string name="key_dial1">0</string>
     <string name="key_dial3">0</string>
