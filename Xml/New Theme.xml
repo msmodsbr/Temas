@@ -411,7 +411,7 @@
     <int name="key_msnewscar2" value="6" />
     <int name="key_msnewscar1" value="-16777216" />
     <int name="pic_chat_size_pickerV2" value="40" />
-    <boolean name="custom_wall" value="false" />
+    <boolean name="custom_wall" value="true" />
     <boolean name="abu_saleh_hide_list" value="true" />
     <boolean name="elapsed_time" value="false" />
     <int name="btn_voice_color_chat_picker" value="-7121306" />
@@ -428,7 +428,7 @@
     <boolean name="participant_name_color_picker_Gactive" value="false" />
     <int name="key_ms_name_clock2" value="-16777216" />
     <int name="key_ms_name_clock1" value="-16777216" />
-    <int name="key_msnewstntabtela4" value="2" />
+    <int name="key_msnewstntabtela4" value="0" />
     <string name="jamm1">0</string>
     <int name="key_msnewstntabtela1" value="-1329579" />
     <int name="key_msnewstntabtela2" value="27" />
