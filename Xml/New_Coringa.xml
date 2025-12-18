@@ -73,6 +73,7 @@
     <boolean name="key_msnews_Gactive" value="false" />
     <int name="ModChatColor" value="-16777216" />
     <boolean name="hide_translation_icon" value="false" />
+    <boolean name="blurConfig" value="true" />
     <boolean name="HomeCounterBK_Gactive" value="false" />
     <int name="key_dwh_size_bannerC" value="160" />
     <boolean name="key_mstellC" value="true" />
@@ -284,6 +285,7 @@
     <boolean name="custom_wall_profilepic" value="false" />
     <boolean name="convo_imgBK" value="true" />
     <boolean name="stkr_wantsendconfirmation" value="true" />
+    <boolean name="nameconfig_N" value="false" />
     <int name="tabadgeTextColor" value="-16777216" />
     <string name="ConvoEntry">7</string>
     <int name="ModConColor" value="-14606304" />
@@ -373,6 +375,7 @@
     <int name="ModConPickColor" value="-14606304" />
     <boolean name="mstela1" value="true" />
     <int name="Dhourleft" value="2" />
+    <int name="key_msnewstntabconfig2" value="30" />
     <string name="key_story_view">0</string>
     <boolean name="key_more_docs_send" value="true" />
     <boolean name="date_left_color_Gactive" value="false" />
