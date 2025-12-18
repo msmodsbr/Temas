@@ -24,6 +24,7 @@
     <boolean name="key_hide_unsaved_num" value="false" />
     <boolean name="HomeBarText_Gactive" value="false" />
     <boolean name="myCardHomeColor_Gactive" value="false" />
+    <int name="bottomtop" value="727" />
     <string name="jammnew">0</string>
     <int name="Tollbar_Border" value="-1" />
     <int name="key_msnewstab_GC" value="-2147483648" />
@@ -56,6 +57,7 @@
     <boolean name="ModConTextColor_Gactive" value="false" />
     <boolean name="bubble_more_options_dlg" value="false" />
     <int name="My_Card_configuRounded" value="7" />
+    <boolean name="MSwa_Newb" value="true" />
     <boolean name="My_Card_configu_Gactive" value="false" />
     <boolean name="hide_action_mas" value="false" />
     <boolean name="abu_saleh_toast_status_view" value="false" />
@@ -63,6 +65,7 @@
     <boolean name="yo_hideinfo" value="true" />
     <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
     <int name="key_counter_tx" value="-12889906" />
+    <boolean name="abosaleh_mention_member" value="false" />
     <int name="HomeCounterText" value="-12889906" />
     <string name="ppsh">0</string>
     <boolean name="key_msnews_check" value="true" />
@@ -85,7 +88,7 @@
     <boolean name="key_msnewstabin_check" value="true" />
     <int name="ModlastseenColor" value="-1" />
     <string name="pps">10</string>
-    <boolean name="key_hide_wallpaper_convo_view" value="true" />
+    <boolean name="key_hide_wallpaper_convo_view" value="false" />
     <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
     <boolean name="status_wantsendconfirmation" value="true" />
     <int name="ModDarkConPickColorNav" value="-12889906" />
@@ -121,6 +124,7 @@
     <int name="ModChatColor" value="-12889906" />
     <boolean name="key_meler_Gactive" value="false" />
     <boolean name="hide_translation_icon" value="false" />
+    <boolean name="blurConfig" value="true" />
     <int name="tabadgeBKColor" value="-16777216" />
     <int name="abu_saleh_toast_status_bc" value="-14833055" />
     <boolean name="emojipopup_header_Gactive" value="false" />
@@ -136,6 +140,7 @@
     <boolean name="convo_imgBK" value="true" />
     <boolean name="abu_saleh_toast_status_cs" value="true" />
     <boolean name="stkr_wantsendconfirmation" value="true" />
+    <boolean name="nameconfig_N" value="false" />
     <int name="tabadgeTextColor" value="-1" />
     <string name="ConvoEntry">25</string>
     <int name="key_ms_icon" value="-8001" />
@@ -164,6 +169,8 @@
     <boolean name="TxtSelect" value="true" />
     <int name="ModChatGStatusB_GC" value="-8001" />
     <int name="abu_saleh_toast_profile_bc" value="-14833055" />
+    <int name="size_tab" value="60" />
+    <boolean name="blurtab" value="true" />
     <int name="yo_nicon_color" value="-12889906" />
     <boolean name="PicHead" value="false" />
     <boolean name="key_botPP" value="true" />
@@ -212,6 +219,7 @@
     <string name="menitnew">0</string>
     <string name="key_admicon_list">0</string>
     <boolean name="abu_saleh_toast_typing_cs" value="true" />
+    <int name="key_msnewstntabname2" value="5" />
     <int name="abu_saleh_toast_typing_tc" value="-1" />
     <int name="key_msnewstab" value="0" />
     <int name="UnSeenColor" value="-16777216" />
@@ -315,6 +323,7 @@
     <int name="ModConPickColor" value="-12889906" />
     <boolean name="mstela1" value="true" />
     <string name="my_home_style">1</string>
+    <int name="key_msnewstntabconfig2" value="30" />
     <boolean name="admin_abosaleh" value="false" />
     <string name="key_group_icon">11</string>
     <string name="key_story_view">1</string>
@@ -336,10 +345,10 @@
     <boolean name="abu_saleh_hide_community_icon" value="false" />
     <int name="key_msnewscar2" value="12" />
     <boolean name="key_hide_ClockHome" value="true" />
-    <boolean name="custom_wall" value="false" />
+    <boolean name="custom_wall" value="true" />
     <boolean name="ModChatEntry_Gactive" value="false" />
     <boolean name="elapsed_time" value="false" />
-    <boolean name="abu_saleh_hide_list" value="false" />
+    <boolean name="abu_saleh_hide_list" value="true" />
     <boolean name="ModlastseenColor_Gactive" value="false" />
     <string name="key_calls_icon">11</string>
     <int name="onlineDotchatColor" value="-8001" />
