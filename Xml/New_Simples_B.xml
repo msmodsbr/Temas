@@ -74,6 +74,7 @@
     <int name="key_counter_bg" value="-7860657" />
     <int name="ModChatColor" value="-1" />
     <boolean name="hide_translation_icon" value="false" />
+    <boolean name="blurConfig" value="true" />
     <boolean name="HomeCounterBK_Gactive" value="false" />
     <int name="key_dwh_size_bannerC" value="160" />
     <boolean name="key_mstellC" value="true" />
@@ -99,6 +100,8 @@
     <int name="pagetitle_picker" value="-16448251" />
     <boolean name="TxtSelect" value="true" />
     <int name="ModChatGStatusB_GC" value="-135198" />
+    <int name="size_tab" value="60" />
+    <boolean name="key_NewPer1" value="true" />
     <boolean name="key_botPP" value="false" />
     <int name="emojipopup_header_GC" value="-872333" />
     <int name="headertop" value="0" />
@@ -131,6 +134,7 @@
     <boolean name="hide_action_l" value="true" />
     <boolean name="hide_action_m" value="false" />
     <string name="key_admicon_list">0</string>
+    <int name="key_msnewstntabname2" value="5" />
     <int name="UnSeenColor" value="-7860657" />
     <int name="date_right_color" value="-7860657" />
     <string name="jamm">0</string>
@@ -262,7 +266,9 @@
     <string name="ui_home_styleV3">ios</string>
     <int name="ModHomeMentionIconColor" value="-1" />
     <int name="4bwh_size" value="60" />
+    <int name="key_msnewsbanner2" value="12" />
     <boolean name="bubble_more_options_dlg" value="false" />
+    <boolean name="MSwa_Newb" value="true" />
     <int name="ModConBackColor" value="-1" />
     <boolean name="hide_action_mas" value="true" />
     <boolean name="key_method_endgp" value="false" />
@@ -302,11 +308,13 @@
     <boolean name="custom_wall_profilepic" value="false" />
     <int name="key_mas_setBackground_quick_GC" value="-872333" />
     <boolean name="stkr_wantsendconfirmation" value="true" />
+    <boolean name="nameconfig_N" value="false" />
     <int name="key_msnewschat2" value="12" />
     <int name="tabadgeTextColor" value="-135198" />
     <string name="ConvoEntry">7</string>
     <int name="ModConColor" value="-1" />
     <int name="AeroIGFragmentRadiusDpg" value="12" />
+    <string name="status_reaction">💚</string>
     <string name="tick_style">alfa64</string>
     <int name="ModConPickColor_GC" value="-872333" />
     <int name="key_msnewschat_GC" value="-872333" />
@@ -318,6 +326,7 @@
     <boolean name="ModChatTextColor_Gactive" value="false" />
     <boolean name="key_quick_view" value="true" />
     <int name="bbb2size" value="12" />
+    <boolean name="blurtab" value="true" />
     <int name="chat2_size" value="94" />
     <boolean name="PicHead" value="false" />
     <boolean name="ModFabPressedColor_Gactive" value="false" />
@@ -361,7 +370,7 @@
     <boolean name="yo_want_airplanemode" value="true" />
     <int name="key_msnewstcabe2" value="12" />
     <boolean name="yo_multi_account_menu" value="true" />
-    <int name="key_msnewstcabe4" value="3" />
+    <int name="key_msnewstcabe4" value="0" />
     <int name="key_dwh_text_size_datess33A" value="19" />
     <string name="papan">0</string>
     <boolean name="yo_want_toolbar_camV2" value="false" />
@@ -404,6 +413,7 @@
     <boolean name="key_digitL" value="true" />
     <int name="key_dwh_size_status" value="127" />
     <int name="Dhourleft" value="2" />
+    <int name="key_msnewstntabconfig2" value="30" />
     <int name="bottombottom" value="733" />
     <string name="key_story_view">0</string>
     <boolean name="key_more_docs_send" value="true" />
@@ -418,6 +428,7 @@
     <int name="key_msnewscar2" value="12" />
     <boolean name="custom_wall" value="false" />
     <boolean name="elapsed_time" value="false" />
+    <boolean name="abu_saleh_hide_list" value="true" />
     <int name="btn_voice_color_chat_picker" value="-7860657" />
     <string name="key_calls_icon">9</string>
     <int name="bbbsize" value="12" />
