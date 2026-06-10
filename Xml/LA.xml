@@ -274,6 +274,7 @@
     <boolean name="home_imgBK" value="true" />
     <boolean name="quoted_name_picker_Gactive" value="false" />
     <boolean name="custom_wall_profilepic" value="false" />
+    <boolean name="convo_imgBK" value="true" />
     <boolean name="stkr_wantsendconfirmation" value="true" />
     <boolean name="nameconfig_N" value="false" />
     <int name="tabadgeTextColor" value="-1" />
